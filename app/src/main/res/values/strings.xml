@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registro de Ponto</string>
+    <string-array name="pontos_array">
+        <item>Entrada 1</item>
+        <item>Saída 1</item>
+        <item>Entrada 2</item>
+        <item>Saída 2</item>
+    </string-array>
+</resources>
